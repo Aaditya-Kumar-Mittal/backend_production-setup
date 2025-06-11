@@ -180,4 +180,3 @@ Deploy the **frontend** (e.g., on Vercel, Netlify) and the **backend** (e.g., on
 | Ignoring CORS or proxy setup      | Use `cors()` or Vite proxy during development        |
 
 ---
-# backend_production-setup
